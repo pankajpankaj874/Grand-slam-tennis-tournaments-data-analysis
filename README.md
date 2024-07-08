@@ -1,1 +1,2 @@
-# Grand-slam-tennis-tournaments-data-mining
+This project finds answers to various questions from 8 datasets based on 4 Grand slam tennis tournaments, for men and women. This gives insights of players performances and their dependencies on various factors such as unforced errors, number of aces, break point etc.This also gives us a decent idea about the factors that matter most in a player’s overall performances.
+Dataset source: https://archive-beta.ics.uci.edu/dataset/300/tennis+major+tournament+match+statistics
